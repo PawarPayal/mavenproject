@@ -10,7 +10,7 @@ public class App
     	StudentDao studentDao = new StudentDao();
 
         // test saveStudent
-        Student student1 =new Student("Akshada","Chaure","akshu34@gmail.com");
+        Student student1 =new Student("Payal","Pawar","payal34@gmail.com");
         Student student2 =new Student("Ajay","Zaware","ajay66789@gmail.com");
         Student student3=new Student("Amruta","Chaure","amruta@45gmail.com");
         Student student4=new Student("Raj","Mishra","rajre12345@gmail.com");
